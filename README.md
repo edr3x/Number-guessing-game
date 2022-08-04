@@ -8,7 +8,7 @@
 
 ### Requirements
 
-- Rust language
+- [Rust language](https://www.rust-lang.org/tools/install)
 - Command line
 
 ### Then go to program directory and type `cargo run` to run the program in the terminal
